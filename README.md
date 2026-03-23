@@ -1,4 +1,4 @@
-# AIFFEL Research Course Archive (AIFFEL_quest_cr)
+# AIFFEL Research Course Archive (AIFFEL_quest_rs)
 
 이 레포지토리는 AIFFEL Research 과정에서 진행되는 모든 퀘스트와 프로젝트 결과를 기록하는 저장소입니다. 배포된 시간표를 기준으로 각 과정별 결과물을 체계적으로 관리합니다.
 
