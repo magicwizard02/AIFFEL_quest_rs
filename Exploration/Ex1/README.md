@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 최예리나.
+- 코더 : 최에리나.
 - 리뷰어 : 정수연.
 
 # PRT(Peer Review Template)
@@ -7,7 +7,8 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
         - <img width="551" height="288" alt="Image" src="https://github.com/user-attachments/assets/7d732b1a-ad0f-4d0f-885d-d2f0dc560b4e" />
-    
+        - <img width="357" height="259" alt="Image" src="https://github.com/user-attachments/assets/d2c43d20-e877-4334-9131-d29d251aed6e" />
+        
 - [x] **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
