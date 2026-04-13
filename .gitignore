@@ -47,3 +47,6 @@ images.tar
 **/Images/
 **/images.tar
 **/.DS_Store*.log
+
+*.log
+*.vocab
