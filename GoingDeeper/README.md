@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 최애리나
+- 코더 : 최에리나
 - 리뷰어 : 송세미
 
 
