@@ -22,7 +22,7 @@ def greedy_decode_gpt(model, sp, prompt, device, max_len=50):
     for _ in range(max_len):
         # Create mask for the current sequence length
         # We import the mask function here or pass it as an argument
-        from utils.masking import create_look_ahead_mask
+        from MainQuest.Quest1.utils.masking import create_look_ahead_mask
         mask = create_look_ahead_mask(input_tensor, pad_id=sp.pad_id())
         
         with torch.no_grad():

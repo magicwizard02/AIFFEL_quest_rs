@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from .layers import DecoderLayer
-from utils import create_look_ahead_mask
+from MainQuest.Quest1.utils import create_look_ahead_mask
 
 class Decoder(nn.Module):
     """
